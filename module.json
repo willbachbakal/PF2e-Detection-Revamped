@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "detection-revamped",
+  "title": "Detection Revamped",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "A rework to detection mechanics in Pathfinder Second Edition that aims to both streamline and standardize senses and detection mechanics.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "detection-revamped",
+      "label": "Detection Revamped",
+      "path": "packs/detection-revamped",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/E59HCgSm3K5-"
 }
